@@ -1,0 +1,47 @@
+*{padding: 0%;
+margin: 0PX;}
+
+.icon-large {
+    font-size: 2em;
+}
+video{
+    padding: 0%;
+}
+.Welcome{
+    position: absolute;
+    top: 30%;
+    left: 150px;
+    
+    padding: 60px;
+    background-color:rgba(240, 173, 173, 0.116);
+    color: azure;
+}
+.btn1{
+    background-color: rgba(238, 224, 33, 0);
+    color: rgb(255, 255, 255);
+    height: 40px;
+    border: 1px solid;
+
+}
+.btn1:hover{
+    background-color: brown;
+}
+.btn2{
+    size: 100px;
+    width: 200px;
+    text-align: center;
+   
+}
+.btn2:hover{
+    background-color: brown;
+}
+.card-body:hover{
+    background-color: rgba(119, 136, 153, 0.747);
+}
+img:hover{
+    background-color: rgba(155, 148, 148, 0.342);
+}
+.col-4:hover{
+    background-color: rgba(155, 148, 148, 0.342);
+
+}
